@@ -11,22 +11,22 @@ This app is a siri-like machine that will give information on certain topics. Th
 
 **Example of user inputs into command line:**
 
-*node liri.js concert-this Muse
+**node liri.js concert-this Muse**
 
 *-This will print upcoming Muse concert names, locations, and dates*
 
 
-*node liri.js movie-this Avatar
+**node liri.js movie-this Avatar**
 
 *-This will print the movie's name, production year, actors, language, and other various data*
 
 
-*node liri.js spotify-this-song All the small things
+**node liri.js spotify-this-song All the small things**
 
 *-This will print the song's name, artists, album, and a preview link*
 
 
-*node liri.js do-what-it-says
+**node liri.js do-what-it-says**
 
 *-This will use information from a text file and give user a result*
 
