@@ -5,7 +5,7 @@ To make this app work for you, you will need to clone it and then supply your ow
 
 ## What is this app used for?
 
-This app is a siri-like machine that will log to the console and a text file information on a certain topic. The topics include:
+This app is a siri-like machine that will log information to the console and a text file on a certain topic. The topics include:
 * band concerts
 * movies
 * songs
