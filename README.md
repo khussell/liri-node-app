@@ -3,13 +3,14 @@
 **Disclaimer:**
 To make this app work for you, you will need to clone it and then supply your own .env file. You will also need to install npm packages: node-spotify-api, moment, axios, and get access to OMDB api and Bands in Town API.
 
-**What is this app used for?**
+##What is this app used for?
+
 This app is a siri-like machine that will give information on certain topics. The topics include:
 *band concerts
 *movies
 *songs
 
-**Example of user inputs into command line:**
+##Example of user inputs into command line:
 
 **node liri.js concert-this Muse**
 
