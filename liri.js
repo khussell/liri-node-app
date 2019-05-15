@@ -8,12 +8,14 @@ var keys = require("./keys.js")
 var axios = require("axios")
 //access moment
 var moment = require("moment")
-
+//access fs
+var fs= require("fs")
 //using variable above to access spotify id's from keys.js
 var spotify = new Spotify(keys.spotify)
 
+//variables for user inputs on command line
 var input1 = process.argv[2]
-var input2 = "Frozen"
+var input2 = process.argv[3]
 
 //object of functions that will run from switch via user's first input
 //these functions will take user's second input as parameter
@@ -35,8 +37,7 @@ var commands = {
     },
 
     spotifyThisSong: function (input) {
-        console.log(input)
-        if (input === "") {
+        if (input === undefined) {
             input = "The Sign"
         }
         spotify.search({ type: 'track', query: `${input}`, limit: 20 }, function (err, data) {
@@ -66,12 +67,30 @@ var commands = {
         //console logging all needed info from api data response
         console.log(`----------------------------------------\nTitle: ${response.data.Title} \nYear: ${date}\nIMDB Rating: ${response.data.imdbRating}\nRotten Tomatoes: ${response.data.Ratings[1].Value}\nCountry: ${response.data.Country}\nLanguage: ${response.data.Language}\nPlot: ${response.data.Plot}\nActors: ${response.data.Actors}\n----------------------------------------`)
       })
+    },
+
+    doWhatItSays: function(){
+       fs.readFile("random.text", "utf8", function(error,data){
+           if(error){
+               return console.log("Error: " + error )
+           }
+           var dataSplit= data.split("")
+           for (var i=0; i< dataSplit.length; i++){
+               if(dataSplit[i]=== '"'){
+                   dataSplit.splice(i, 1)
+               }
+           }
+           dataSplit= dataSplit.join("")
+           dataSplit= dataSplit.split(",")
+           input1= dataSplit[0]
+           input2= dataSplit[1]
+           userCommand(input1)
+       })
     }
 
 
 }
 
-commands.movieThis(input2)
 
 var userCommand = function (input) {
     switch (input) {
@@ -85,9 +104,11 @@ var userCommand = function (input) {
             commands.movieThis(input2)
             break;
         case 'do-what-it-says':
-            commands.doWhatItSays(input2)
+            commands.doWhatItSays()
             break;
         default:
             console.log("Liri does not know that.")
     }
 }
+
+userCommand(input1)
