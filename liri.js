@@ -70,10 +70,12 @@ var commands = {
     },
 
     doWhatItSays: function(){
+        //access file system to read file random.text
        fs.readFile("random.text", "utf8", function(error,data){
            if(error){
                return console.log("Error: " + error )
            }
+           //formatting random.text data to update input1 and input2
            var dataSplit= data.split("")
            for (var i=0; i< dataSplit.length; i++){
                if(dataSplit[i]=== '"'){
@@ -84,6 +86,7 @@ var commands = {
            dataSplit= dataSplit.split(",")
            input1= dataSplit[0]
            input2= dataSplit[1]
+           //executing userCommand function with updated input1 and input2
            userCommand(input1)
        })
     }
@@ -93,7 +96,9 @@ var commands = {
 
 
 var userCommand = function (input) {
+    //userCommand will take input (which is input1 from user) and go through switch
     switch (input) {
+        //with each case if user input1 from command line is this case it will go to whatever commands.function called
         case 'concert-this':
             commands.concertThis(input2)
             break;
@@ -111,4 +116,5 @@ var userCommand = function (input) {
     }
 }
 
+//executing userCommand function with input1 as the argument
 userCommand(input1)
