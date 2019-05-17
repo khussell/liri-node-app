@@ -1,110 +1,519 @@
 ----------------------------------------
-Title: Frozen 
-Year: 2013
-IMDB Rating: 7.5
-Rotten Tomatoes: 90%
+Artist: muse 
+Venue: Letiště Praha Letňany 
+Location: Praha, Czech Republic 
+Date: 05/26/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Papp Laszlo Sports Arena 
+Location: Budapest, Hungary 
+Date: 05/28/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Stadthalle Graz 
+Location: Graz, Austria 
+Date: 05/29/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: London Stadium U K 
+Location: London, United Kingdom 
+Date: 06/01/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Ashton Gate 
+Location: Bristol, United Kingdom 
+Date: 06/05/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Luzhniki Stadium 
+Location: Moskva, Russia 
+Date: 06/15/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Arēna Rīga 
+Location: Rīga, Latvia 
+Date: 06/12/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Etihad Stadium 
+Location: Manchester, United Kingdom 
+Date: 06/08/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Goffertpark 
+Location: Nijmegen, Netherlands 
+Date: 06/27/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: RheinEnergieSTADION 
+Location: Köln, Germany 
+Date: 06/29/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Festivalpark Werchter 
+Location: Werchter, Belgium 
+Date: 06/30/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Tauron Arena 
+Location: Kraków, Poland 
+Date: 06/22/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Stade de France 
+Location: Paris, France 
+Date: 07/05/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Hallenstadion 
+Location: Zürich, Switzerland 
+Date: 07/03/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Orange Vélodrome 
+Location: Marseille, France 
+Date: 07/09/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Suvilahti 
+Location: Helsinki, Finland 
+Date: 06/18/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Stade de France 
+Location: Paris, France 
+Date: 07/06/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: San Siro Stadium 
+Location: Milano, Italy 
+Date: 07/13/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Matmut Atlantique 
+Location: Bordeaux, France 
+Date: 07/16/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Stadio Olimpico 
+Location: Rome, Italy 
+Date: 07/20/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: San Siro Stadium 
+Location: Milan, Italy 
+Date: 07/12/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Wanda Metropolitano Stadium 
+Location: Madrid, Spain 
+Date: 07/26/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Passeio Maritimo de Alges 
+Location: Lisbon, Portugal 
+Date: 07/24/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Mercedes-Benz Arena Berlin 
+Location: Berlin, Germany 
+Date: 09/10/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: The Formula 1 Singapore Grand Prix 
+Location: Singapore, Singapore 
+Date: 09/21/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Royal Arena 
+Location: København S, Denmark 
+Date: 09/08/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Telenor Arena Shuttlebuss 
+Location: Oslo, Norway 
+Date: 09/07/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Rock in Rio Brasil [9.27 - 9.29 / 10.3 - 10.6] 
+Location: Rio De Janeiro, Brazil 
+Date: 10/06/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Pista Atletica 
+Location: Santiago, Chile 
+Date: 10/13/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Foro Sol 
+Location: Mexico City, Mexico 
+Date: 10/03/2019 
+--------------------------------------------------------------------------------
+Artist: muse 
+Venue: Foro Sol 
+Location: Mexico City, Mexico 
+Date: 10/02/2019 
+--------------------------------------------------------------------------------
+Artist: The Killers 
+Venue: Belsonic 
+Location: Belfast, United Kingdom 
+Date: 06/25/2019 
+--------------------------------------------------------------------------------
+Artist: The Killers 
+Venue: Cardiff Castle 
+Location: Cardiff, United Kingdom 
+Date: 06/28/2019 
+--------------------------------------------------------------------------------
+Artist: The Killers 
+Venue: Glastonbury Festival 
+Location: Shepton Mallet, United Kingdom 
+Date: 06/29/2019 
+--------------------------------------------------------------------------------
+Artist: The Killers 
+Venue: Summerfest 
+Location: Milwaukee, United States 
+Date: 07/05/2019 
+--------------------------------------------------------------------------------
+Artist: The Killers 
+Venue: Ottawa Bluesfest 
+Location: Ottawa, Canada 
+Date: 07/07/2019 
+--------------------------------------------------------------------------------
+Artist: The Killers 
+Venue: The Colosseum at Caesars Windsor 
+Location: Windsor, Canada 
+Date: 07/09/2019 
+--------------------------------------------------------------------------------
+Artist: The Killers 
+Venue: EXPRESS LIVE! 
+Location: Columbus, United States 
+Date: 07/11/2019 
+--------------------------------------------------------------------------------
+Artist: The Killers 
+Venue: Forecastle Fest  
+Location: Louisville, United States 
+Date: 07/12/2019 
+--------------------------------------------------------------------------------
+Artist: The Killers 
+Venue: Pilgrimage Music & Cultural Festival 
+Location: Franklin, United States 
+Date: 09/21/2019 
+--------------------------------------------------------------------------------
+Artist(s): Queen 
+Song: Bohemian Rhapsody - Remastered 2011
+Preview link: https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr
+Album: A Night At The Opera (Deluxe Remastered Version)
+--------------------------------------------------------------------------------
+Artist(s): Panic! At The Disco 
+Song: Bohemian Rhapsody
+Preview link: https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8
+Album: Suicide Squad: The Album
+--------------------------------------------------------------------------------
+Artist(s): Queen 
+Song: Bohemian Rhapsody - 2011 Remaster
+Preview link: https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW
+Album: Bohemian Rhapsody (The Original Soundtrack)
+--------------------------------------------------------------------------------
+Artist(s): Queen 
+Song: Radio Ga Ga - Live Aid
+Preview link: https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW
+Album: Bohemian Rhapsody (The Original Soundtrack)
+--------------------------------------------------------------------------------
+Artist(s): Queen 
+Song: I Want To Break Free
+Preview link: https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW
+Album: Bohemian Rhapsody (The Original Soundtrack)
+--------------------------------------------------------------------------------
+Artist(s): Queen 
+Song: Bohemian Rhapsody - Live Aid
+Preview link: https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW
+Album: Bohemian Rhapsody (The Original Soundtrack)
+--------------------------------------------------------------------------------
+Artist(s): Queen 
+Song: Bohemian Rhapsody - Remastered 2011
+Preview link: https://open.spotify.com/album/1Q9NOisnaTULM5CZD4rIgZ
+Album: Queen 40 Limited Edition Collector's Box Set
+--------------------------------------------------------------------------------
+Artist(s): Queen 
+Song: Somebody To Love - 2011 Remaster
+Preview link: https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW
+Album: Bohemian Rhapsody (The Original Soundtrack)
+--------------------------------------------------------------------------------
+Artist(s): Queen 
+Song: Killer Queen - 2011 Remaster
+Preview link: https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW
+Album: Bohemian Rhapsody (The Original Soundtrack)
+--------------------------------------------------------------------------------
+Artist(s): Queen 
+Song: Ay-Oh - Live Aid
+Preview link: https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW
+Album: Bohemian Rhapsody (The Original Soundtrack)
+--------------------------------------------------------------------------------
+Artist(s): Queen 
+Song: Bohemian Rhapsody
+Preview link: https://open.spotify.com/album/7C2DKB8C12LqxMkfJRwTo9
+Album: Stone Cold Classics
+--------------------------------------------------------------------------------
+Artist(s): Queen 
+Song: We Are The Champions - Live Aid
+Preview link: https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW
+Album: Bohemian Rhapsody (The Original Soundtrack)
+--------------------------------------------------------------------------------
+Artist(s): Queen 
+Song: Hammer To Fall - Live Aid
+Preview link: https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW
+Album: Bohemian Rhapsody (The Original Soundtrack)
+--------------------------------------------------------------------------------
+Artist(s): Queen 
+Song: Don't Stop Me Now - …revisited
+Preview link: https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW
+Album: Bohemian Rhapsody (The Original Soundtrack)
+--------------------------------------------------------------------------------
+Artist(s): Pentatonix 
+Song: Bohemian Rhapsody
+Preview link: https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX
+Album: PTX Vol. IV - Classics
+--------------------------------------------------------------------------------
+Artist(s): Queen 
+Song: Another One Bites The Dust - 2011 Remaster
+Preview link: https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW
+Album: Bohemian Rhapsody (The Original Soundtrack)
+--------------------------------------------------------------------------------
+Artist(s): Queen 
+Song: Fat Bottomed Girls - Live in Paris
+Preview link: https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW
+Album: Bohemian Rhapsody (The Original Soundtrack)
+--------------------------------------------------------------------------------
+Artist(s): Smile 
+Song: Doing All Right - …revisited
+Preview link: https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW
+Album: Bohemian Rhapsody (The Original Soundtrack)
+--------------------------------------------------------------------------------
+Artist(s): Queen 
+Song: Keep Yourself Alive - Live at The Rainbow
+Preview link: https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW
+Album: Bohemian Rhapsody (The Original Soundtrack)
+--------------------------------------------------------------------------------
+Artist(s): Queen 
+Song: Under Pressure - Remastered
+Preview link: https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW
+Album: Bohemian Rhapsody (The Original Soundtrack)
+--------------------------------------------------------------------------------
+Title: The Goonies 
+Year: 1985
+IMDB Rating: 7.8
+Rotten Tomatoes: 71%
 Country: USA
-Language: English, Norwegian
-Plot: When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
-Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+Language: English, Spanish, Cantonese, Italian
+Plot: A group of young misfits who call themselves The Goonies discover an ancient map and set out on a quest to find a legendary pirate's long-lost treasure.
+Actors: Sean Astin, Josh Brolin, Jeff Cohen, Corey Feldman
 --------------------------------------------------------------------------------
-Artist(s): The Shins 
-Song: New Slang
-Preview link: https://open.spotify.com/album/6tMeipxbqiKnp7F368cwsi
-Album: Oh, Inverted World
+Artist(s): Backstreet Boys 
+Song: I Want It That Way
+Preview link: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+Album: The Hits--Chapter One
 --------------------------------------------------------------------------------
-Artist(s): Vallis Alps 
-Song: New Slang (triple j Like A Version)
-Preview link: https://open.spotify.com/album/7fOKuO4j860oYdt8lnwLgt
-Album: New Slang (triple j Like A Version)
+Artist(s): Backstreet Boys 
+Song: I Want It That Way
+Preview link: https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ
+Album: Millennium
 --------------------------------------------------------------------------------
-Artist(s): Kina Grannis 
-Song: New Slang
-Preview link: https://open.spotify.com/album/5tBOTePkw0yrnLjpKHtL43
-Album: New Slang
+Artist(s): Backstreet Boys 
+Song: I Want It That Way - Reimagined
+Preview link: https://open.spotify.com/album/74JILVZuxtZLFyRl9AY7TV
+Album: I Want It That Way (Reimagined)
 --------------------------------------------------------------------------------
-Artist(s): The Shins 
-Song: New Slang
-Preview link: https://open.spotify.com/album/3xJQ9AE6svPtENVepRvj4D
-Album: Scrubs
+Artist(s): Anthem Lights 
+Song: I Want It That Way
+Preview link: https://open.spotify.com/album/6y6y4kyZ81PF951e9N4WBM
+Album: Covers Part IV
 --------------------------------------------------------------------------------
-Artist(s): Alex Guilbert Trio 
-Song: New Slang
-Preview link: https://open.spotify.com/album/1nw5UJVa0soJTPa0pi5Tek
-Album: On the Ground With the Alex Guilbert Trio
+Artist(s): Mick Jensen 
+Song: I Want It That Way
+Preview link: https://open.spotify.com/album/1Eav3T7yEFSOvtUOtxMKa0
+Album: I Want It That Way
 --------------------------------------------------------------------------------
-Artist(s): Brave Squirrels 
-Song: New Slang
-Preview link: https://open.spotify.com/album/0l5HYe5quv7H9trknPEnt1
-Album: Emo Rocks!
+Artist(s): Jess and Gabriel 
+Song: I Want It That Way
+Preview link: https://open.spotify.com/album/7agg8FsuWoGF4eVvzEYHbB
+Album: Under the Covers, Vol. 3
 --------------------------------------------------------------------------------
-Artist(s): The Shins 
-Song: New Slang - Live
-Preview link: https://open.spotify.com/album/6Md8CXTS5rq1yqv1nGzmdL
-Album: Know Your Onion!
+Artist(s): Tyler and Mark 
+Song: I Want It That Way
+Preview link: https://open.spotify.com/album/2OB116yi2gPBqwgQvqjKIy
+Album: Beautiful Dreams
 --------------------------------------------------------------------------------
-Artist(s): Vitamin String Quartet 
-Song: New Slang
-Preview link: https://open.spotify.com/album/56rhaqWDLMw6wG5Flbr72W
-Album: VSQ Film School: Cult Classics & Indie Faves
+Artist(s): "Weird Al" Yankovic 
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview link: https://open.spotify.com/album/4VzAwj9nYwEqjY6JLaTwCm
+Album: Poodle Hat
 --------------------------------------------------------------------------------
-Artist(s): The Shins 
-Song: New Slang - Live with Sam Beam
-Preview link: https://open.spotify.com/album/4zXWyRXADvF94Ja6phbIbz
-Album: Fighting In A Sack
+Artist(s): Backstreet Boys 
+Song: I Want It That Way
+Preview link: https://open.spotify.com/album/71WupOKqXgSrgg0CivZDHS
+Album: 90 Sweet 90s Hits!
 --------------------------------------------------------------------------------
-Artist(s): The Shins 
-Song: New Slang - Live From The Lot
-Preview link: https://open.spotify.com/album/1h2Y5p5rARTSTZBeedATKb
-Album: Live From The Lot
+Artist(s): Glee Cast 
+Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview link: https://open.spotify.com/album/1sFs6ZD66GxP9g8kcwISh1
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
 --------------------------------------------------------------------------------
-Artist(s): Midnite String Quartet 
-Song: New Slang
-Preview link: https://open.spotify.com/album/2Q4zwUhHwO48jMGxZxRWBg
-Album: MSQ Performs The Shins
+Artist(s): Backstreet Boys 
+Song: I Want It That Way
+Preview link: https://open.spotify.com/album/5Zwuaan4RIS108lyMEYYmw
+Album: NKOTBSB
 --------------------------------------------------------------------------------
-Artist(s): Chris Richter 
-Song: New Slang
-Preview link: https://open.spotify.com/album/63IOMljIUz8MMkaX9Dyis6
-Album: Indie Wedding Music: 40 Alternative & Indie Rock Love Songs Arranged for Classical Guitar for the Modern Couple's Ceremony
+Artist(s): Steel Panther 
+Song: I Want It That Way
+Preview link: https://open.spotify.com/album/0cKszqNmOM9mjoiKqR9BIS
+Album: I Want It That Way
 --------------------------------------------------------------------------------
-Artist(s): Superhuman Happiness 
-Song: New Slang
-Preview link: https://open.spotify.com/album/66EeMw39wf00Rb4n0tt5R4
-Album: New Slang
+Artist(s): Boyce Avenue 
+Song: I Want It That Way
+Preview link: https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz
+Album: Cover Sessions, Vol. 2
 --------------------------------------------------------------------------------
-Artist(s): Seattle Sounds 
-Song: New Slang (from "Garden State")
-Preview link: https://open.spotify.com/album/6Ezcdt60uKIl2P94nMAq58
-Album: Young Love at the Movies
+Artist(s): Manuel Costa 
+Song: I Want It That Way
+Preview link: https://open.spotify.com/album/5OTVQJeg9hddMiZOnjMS4S
+Album: I Want It That Way
 --------------------------------------------------------------------------------
-Artist(s): Phoenix Moon 
-Song: New Slang
-Preview link: https://open.spotify.com/album/2h9nFDKF2d8odvr5VFZFAg
-Album: Coffee House Acoustic Playlist
+Artist(s): Scary Pockets 
+Song: I Want It That Way
+Preview link: https://open.spotify.com/album/5RUgGybyrfKUKE5hBTKLum
+Album: Nu Funk
 --------------------------------------------------------------------------------
-Artist(s): Corvino Traxx 
-Song: New Slang
-Preview link: https://open.spotify.com/album/5uzgUpOksFmS1YaofMFRE7
-Album: New Slang
+Artist(s): Dynamite Boy 
+Song: I Want It That Way
+Preview link: https://open.spotify.com/album/5EoRtzlbNHpz4ZHR4rEmwD
+Album: Punk Goes Pop
 --------------------------------------------------------------------------------
-Artist(s): Reh Dogg 
-Song: New Slang
-Preview link: https://open.spotify.com/album/2FfhAEKFTSi0avp9wWsftb
-Album: Long Hard Road
+Artist(s): Yshop 
+Song: I Want It That Way
+Preview link: https://open.spotify.com/album/0dkPR4h6LEM3h8xCWiNpQJ
+Album: I Want It That Way
 --------------------------------------------------------------------------------
-Artist(s): Zack Cross Trio 
-Song: New Slang
-Preview link: https://open.spotify.com/album/69Cfxk3t9pa6giqFvVB4YC
-Album: Up/Under
+Artist(s): Scott Bradlee's Postmodern Jukebox 
+Song: I Want It That Way
+Preview link: https://open.spotify.com/album/1jRyMHSkbnP8GwptMnh66z
+Album: Selfies on Kodachrome
 --------------------------------------------------------------------------------
-Artist(s): Vega 
-Song: New Slang
-Preview link: https://open.spotify.com/album/2ShLeabVbiSslivaQXO1gw
-Album: Holographic
+Artist(s): "Weird Al" Yankovic 
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview link: https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4
+Album: The Essential "Weird Al" Yankovic
 --------------------------------------------------------------------------------
-Artist(s): Rustycappella&friends 
-Song: New Slang
-Preview link: https://open.spotify.com/album/5usxnkXXMRdMgADQ9FOymV
-Album: Rustycappella&friends, Vol. III
+Artist(s): Love Hits On Piano 
+Song: I Want It That Way
+Preview link: https://open.spotify.com/album/5UHUwIBrJmJ5d3v5JXx8xv
+Album: Timeless Love
+--------------------------------------------------------------------------------
+Artist(s): The Chainsmokers 
+Song: Do You Mean (with Ty Dolla $ign & bülow)
+Preview link: https://open.spotify.com/album/17knWaxhmQjegn5eJgGVyL
+Album: World War Joy...Do You Mean
+--------------------------------------------------------------------------------
+Artist(s): Harry Styles 
+Song: Sign of the Times
+Preview link: https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV
+Album: Harry Styles
+--------------------------------------------------------------------------------
+Artist(s): Lil Wayne 
+Song: Scared of the Dark (feat. XXXTENTACION)
+Preview link: https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs
+Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+--------------------------------------------------------------------------------
+Artist(s): Ty Dolla $ign 
+Song: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+Preview link: https://open.spotify.com/album/3SHx7bBQFI4J8QRr6D5cOK
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+--------------------------------------------------------------------------------
+Artist(s): Jeremih 
+Song: Impatient
+Preview link: https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96
+Album: Late Nights: The Album
+--------------------------------------------------------------------------------
+Artist(s): Harry Styles 
+Song: Sign of the Times
+Preview link: https://open.spotify.com/album/6YDkzHVTEzMXZOVd1r5NqR
+Album: Sign of the Times
+--------------------------------------------------------------------------------
+Artist(s): Jeremih 
+Song: The Light
+Preview link: https://open.spotify.com/album/2dPMOEn0BkN8qpGVuuA3GT
+Album: The Light
+--------------------------------------------------------------------------------
+Artist(s): Ace of Base 
+Song: The Sign
+Preview link: https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB
+Album: The Sign (US Album) [Remastered]
+--------------------------------------------------------------------------------
+Artist(s): Quality Control 
+Song: Movin’ Up
+Preview link: https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ
+Album: Quality Control: Control The Streets Volume 1
+--------------------------------------------------------------------------------
+Artist(s): Mac Miller 
+Song: Cinderella (feat. Ty Dolla $ign)
+Preview link: https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ
+Album: The Divine Feminine
+--------------------------------------------------------------------------------
+Artist(s): Rich The Kid 
+Song: Woah (feat. Miguel & Ty Dolla $ign)
+Preview link: https://open.spotify.com/album/6GDXnx6AUDGH0tpxXQX0Kn
+Album: The World Is Yours 2
+--------------------------------------------------------------------------------
+Artist(s): Ty Dolla $ign 
+Song: Love U Better (feat. Lil Wayne & The-Dream)
+Preview link: https://open.spotify.com/album/7Dj0aaKI4RpehMPqOu56mW
+Album: Beach House 3
+--------------------------------------------------------------------------------
+Artist(s): Ty Dolla $ign 
+Song: Droptop in the Rain (feat. Tory Lanez)
+Preview link: https://open.spotify.com/album/7Dj0aaKI4RpehMPqOu56mW
+Album: Beach House 3
+--------------------------------------------------------------------------------
+Artist(s): Lil Durk 
+Song: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie)
+Preview link: https://open.spotify.com/album/3EwMFeUkcp36t9IVJ8d54q
+Album: Signed To The Streets 3
+--------------------------------------------------------------------------------
+Artist(s): Coldplay 
+Song: Warning Sign
+Preview link: https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ
+Album: A Rush Of Blood To The Head
+--------------------------------------------------------------------------------
+Artist(s): Juicy J 
+Song: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+Preview link: https://open.spotify.com/album/1wJ0LO5PnMZDTrWR2C7qQ8
+Album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+--------------------------------------------------------------------------------
+Artist(s): Ace of Base 
+Song: All That She Wants
+Preview link: https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB
+Album: The Sign (US Album) [Remastered]
+--------------------------------------------------------------------------------
+Artist(s): Lil Peep 
+Song: When I Lie (Remix) (feat. Ty Dolla $ign)
+Preview link: https://open.spotify.com/album/00xUnMv4KFgxTBvNMsUy3T
+Album: For The Throne (Music Inspired by the HBO Series Game of Thrones)
+--------------------------------------------------------------------------------
+Artist(s): Lil Wayne 
+Song: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+Preview link: https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8
+Album: Suicide Squad: The Album
+--------------------------------------------------------------------------------
+Artist(s): Chance the Rapper 
+Song: Blessings (feat. Ty Dolla $ign, Anderson .Paak, BJ The Chicago Kid, Raury & Jamila Woods)
+Preview link: https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB
+Album: Coloring Book
+--------------------------------------------------------------------------------
+Title: Mr. Nobody 
+Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 ----------------------------------------

@@ -19,9 +19,10 @@ var input2 = ""
 //defining input2 by making sure to get user's multiple word inputs in command line
 for (var i = 3; i < process.argv.length; i++) {
     input2 += process.argv[i] + " "
+    
 }
+input2= input2.trim()
 
-console.log(input2)
 //object of functions that will run from switch via user's first input
 //these functions will take user's second input as parameter
 var commands = {
@@ -33,9 +34,10 @@ var commands = {
             //loop through data and console log info about where band is playing and log to log.txt
             for (var i = 0; i < response.data.length; i++) {
                 //using moment to format the datetime
+                
                 var date = moment(response.data[i].datetime, "YYYY-MM-DDTHH:mm:ss").format("MM/DD/YYYY")
                
-                let text = `----------------------------------------\nVenue: ${response.data[i].venue.name} \nLocation: ${response.data[i].venue.city}, ${response.data[i].venue.country} \nDate: ${date} \n----------------------------------------`
+                let text = `----------------------------------------\nArtist: ${input} \nVenue: ${response.data[i].venue.name} \nLocation: ${response.data[i].venue.city}, ${response.data[i].venue.country} \nDate: ${date} \n----------------------------------------`
 
                 console.log(text)
                 fs.appendFile("log.txt", text, function (err) {
@@ -44,7 +46,9 @@ var commands = {
                     } 
                 })
             }
-        })
+        }).catch(function (error) {
+            console.log(error);
+          })
 
     },
 
@@ -93,7 +97,9 @@ var commands = {
                     console.log(err)
                 } 
             })
-        })
+        }).catch(function (error) {
+            console.log(error);
+          })
     },
 
     doWhatItSays: function () {
