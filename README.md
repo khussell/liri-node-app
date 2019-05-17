@@ -32,7 +32,9 @@ This app is a siri-like machine that will log information to the console and a t
 *-This will use information from a text file and give user a result*
 
 
+### Link to walkthrough
 
+https://drive.google.com/file/d/1UnKkecNF_fk2nm5AipyTDntfN4Tmlp-j/view
 
 
 
