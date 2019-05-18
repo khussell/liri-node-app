@@ -765,4 +765,13 @@ Country: USA
 Language: English
 Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
 Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+--------------------------------------------------------------------------------
+Title: Frozen 
+Year: 2013
+IMDB Rating: 7.5
+Rotten Tomatoes: 90%
+Country: USA
+Language: English, Norwegian
+Plot: When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
 ----------------------------------------

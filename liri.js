@@ -1,15 +1,15 @@
 require("dotenv").config()
 
 //accessing spotify npm
-var Spotify = require('node-spotify-api')
+const Spotify = require('node-spotify-api')
 //accessing keys.js (looking in current folder with ./)
 var keys = require("./keys.js")
 //access axios
-var axios = require("axios")
+const axios = require("axios")
 //access moment
-var moment = require("moment")
+const moment = require("moment")
 //access fs
-var fs = require("fs")
+const fs = require("fs")
 //using variable above to access spotify id's from keys.js
 var spotify = new Spotify(keys.spotify)
 
